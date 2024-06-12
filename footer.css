@@ -1,0 +1,26 @@
+.footer-container {
+  margin-bottom: 80px;
+}
+.footer-container .working-details {
+  display: flex;
+  text-align: left;
+  justify-content: center;
+  gap: 59px;
+}
+.footer-container .working-details p {
+  margin: 20px 0px;
+  font-size: 18px;
+  font-weight: 500;
+  color: #b6b6b6;
+  line-height: 30px;
+}
+.footer-container .working-details i {
+  background-color: #f5ddc4;
+  padding: 15px;
+  border-radius: 100%;
+  color: #f48e28;
+}
+.footer-container .working-details .media {
+  display: flex;
+  gap: 20px;
+}

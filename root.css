@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+:root {
+  --background-color: white;
+  --background-image: linear-gradient(#efab68, #f48e28);
+  --font-primary-color: black;
+}
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 400;
+  color: var(--font-primary-color);
+}
+body {
+  background-color: var(--background-color);
+}
